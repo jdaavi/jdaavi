@@ -100,7 +100,7 @@ Me chamo João Davi dos Santos de Moura, tenho 22 anos e sou natural de Fortalez
     alt="Git hub stats" 
     height="200px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jdaavi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=jdaavi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Git Hub João Davi" 
 />
 
 <img
